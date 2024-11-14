@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\D242U18\\Documents\\GitHub\\i-get-the-point-Narwaffle22\\I get the point\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7674012-1B22-458F-AA40-059F906E65DF}|I get the point\\I get the point.vcxproj|C:\\Users\\D242U18\\Documents\\GitHub\\i-get-the-point-Narwaffle22\\I get the point\\I get the point\\I get the point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A7674012-1B22-458F-AA40-059F906E65DF}|I get the point\\I get the point.vcxproj|solutionrelative:I get the point\\I get the point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D242U18\\Documents\\GitHub\\i-get-the-point-Narwaffle22\\I get the point\\I get the point\\I get the point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:I get the point\\I get the point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "I get the point\\I get the point.cpp",
               "ToolTip": "C:\\Users\\D242U18\\Documents\\GitHub\\i-get-the-point-Narwaffle22\\I get the point\\I get the point\\I get the point.cpp",
               "RelativeToolTip": "I get the point\\I get the point.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAiAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-12T22:29:36.144Z",
               "EditorCaption": ""
